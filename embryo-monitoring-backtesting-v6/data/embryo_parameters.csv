@@ -1,0 +1,7 @@
+image_id,age,AMH,medium_brand,injection_only,fertilization,outcome,blast_day
+embryo01_D3,28,4.5,A,ICSI,2pn,Success,5
+embryo02_D3,32,3.2,A,Standard,2pn,Fail,5
+embryo03_D3,37,1.8,B,ICSI,2pn,Implant,5
+embryo04_D5,41,0.8,B,ICSI,2pn,Fail,6
+embryo05_D5,35,2.5,A,Standard,2pn,Success,5
+embryo06_D5,39,1.1,B,ICSI,2pn,Fail,6
